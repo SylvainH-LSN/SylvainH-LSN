@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I'm currently working on a **non-financial accounting information system** to measure and publish environnemental and social major impacts of the produced value of companies, on major subjects such as greenhouse emissions, gender inequality or water consumption. Default and published data are available for french companies by their *siren* identifiant on an **open database**.
+I'm currently working on a **non-financial accounting information system** to measure and publish environnemental and social impacts of the produced value of companies, on major subjects such as greenhouse emissions, gender inequality or water consumption. Default and published data are available for french companies by their *siren* identifiant on an **open database**.
 The information system is based on the financial accountings of companies to ensure traceability, and which make it already operationnal.
 
 More information on [La Société Nouvelle](https://www.la-societe-nouvelle.fr)
